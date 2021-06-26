@@ -1,0 +1,20 @@
+/* quando temos uma tag não uma class chamamos sem ponto */
+body {
+  background-color: darkgreen;  
+}
+
+/* quando temos umas class e não uma tag fazemos um ponto */
+.h1-first {
+    color: darkseagreen;
+}
+
+.h1-second{
+    color: hotpink;
+}
+
+.container {
+    /* definimos as propriedades do estilo aqui */
+    background-color: indianred;
+    height: 1200px;
+    width: 700px;
+}
